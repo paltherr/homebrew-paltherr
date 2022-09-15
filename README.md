@@ -1,2 +1,3 @@
 # homebrew-paltherr
-Homebrew Formulae
+
+Repository for managing [Homebrew](https://brew.sh) Formulae
