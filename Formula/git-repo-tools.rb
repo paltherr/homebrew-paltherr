@@ -1,8 +1,8 @@
 class GitRepoTools < Formula
   desc "Tools for Git repositories"
   homepage "https://github.com/paltherr/git-repo-tools"
-  url "https://github.com/paltherr/git-repo-tools/archive/v0.0.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  url "https://github.com/paltherr/git-repo-tools/archive/v0.1.0.tar.gz"
+  sha256 "efc6a09a90237c8e9bb17845c2eeced4ed4203d1588979a5ada7c3a5399ac2eb"
   head "https://github.com/paltherr/git-repo-tools.git", :branch => "main"
   license "MIT"
 
