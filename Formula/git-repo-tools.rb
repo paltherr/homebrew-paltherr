@@ -10,6 +10,7 @@ class GitRepoTools < Formula
   depends_on "paltherr/zsh/zfun"
 
   def install
+    lib.install "src/lib/git-repo.zsh"
     bin.install "src/bin/gr-head-commit-amend"
     bin.install "src/bin/gr-homebrew-formula-update"
     bin.install "src/bin/gr-latest-tag"
