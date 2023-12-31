@@ -1,4 +1,4 @@
-class Javafx < Formula
+class Openjfx < Formula
   desc "Java development kit for creating rich client applications"
   homepage "https://openjfx.io/"
   version "21.0.1"
