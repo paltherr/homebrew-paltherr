@@ -1,9 +1,9 @@
 class Openjfx < Formula
   desc "Java development kit for creating rich client applications"
   homepage "https://openjfx.io/"
-  version "21.0.1"
-  url "https://download2.gluonhq.com/openjfx/21.0.1/openjfx-21.0.1_osx-x64_bin-sdk.zip"
-  sha256 "87669aadfc0e1c729b66eeb5b7af6e99bb1a3c5a80b520cf9193910c08e04a7f"
+  version "22.0.1"
+  url "https://download2.gluonhq.com/openjfx/22.0.1/openjfx-22.0.1_osx-x64_bin-sdk.zip"
+  sha256 "87fcd7e519e537375f1a4821538a7b55be6f64e94ba9b305cd73d0f9d4e7db95"
   license "GPL-2.0-or-later"
 
   depends_on "openjdk"
